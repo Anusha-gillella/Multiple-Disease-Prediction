@@ -1,0 +1,2 @@
+Streamlit run "/Users/vihaan/Desktop/multiple_disease_prediction/multiple disease pred.py"
+
